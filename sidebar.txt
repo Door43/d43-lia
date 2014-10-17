@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lia:home|Door43 (lia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lia|d43-lia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lia/archive/master.zip|d43-lia.zip]]
+
+**Recent Changes**
+{{changes>ns = lia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lia|Ethnologue data]]
+
